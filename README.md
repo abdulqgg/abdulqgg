@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulqgg
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on anything crytpo
+- 👀 I’m interested in python, crypto, 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on anything crytpo and python
 - 📫 How to reach me abdulqgg@yahoo.com
 
 <!---
