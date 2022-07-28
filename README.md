@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @abdulqgg
-- 👀 I’m interested in python, crypto, 
-- 🌱 I’m currently learning ds
-- 💞️ I’m looking to collaborate on anything crytpo and python
+- 👀 I’m interested in smart contracts, defi, blockchain, nft 
+- 🌱 I’m currently learning smart contracts
+- 👨‍💻 Working with brownie local framework
+- 💞️ I’m looking to collaborate on anything crytpo
+- 🤓 Expertise in solidity and python
 - 📫 How to reach me abdulqgg@yahoo.com
 
 <!---
