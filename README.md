@@ -2,7 +2,7 @@
 - 👀 I’m interested in smart contracts, defi, blockchain, nft 
 - 🌱 I’m currently learning smart contracts
 - 👨‍💻 Working with brownie local framework
-- 🤓 Experienced in solidity and python
+- 🤓 Experienced in solidity, python, javascript
 - 💞️ I’m looking to collaborate on anything crytpo
 - 📫 How to reach me abdulqgg@yahoo.com
 
