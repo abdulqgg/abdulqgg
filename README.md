@@ -11,4 +11,4 @@ abdulqgg/abdulqgg is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![counter](https://abdulqgg.m.pipedream.net)
+![counter](https://bit.ly/3enMyFZ)
