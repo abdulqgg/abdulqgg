@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulqgg
 - 👀 I’m interested in smart contracts, defi, blockchain, nft 
 - 🌱 I’m currently learning smart contracts
-- 👨‍💻 Working with brownie local framework
+- 👨‍💻 Working with brownie and hardhat local framework
 - 🤓 Experienced in solidity, python, javascript, typescript
 - 💞️ I’m looking to collaborate on anything crytpo
 - 📫 How to reach me abdulqgg@yahoo.com
