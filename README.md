@@ -1,13 +1,22 @@
-- 👋 Hi, I’m @abdulqgg
-- 👀 I’m interested in smart contracts, defi, blockchain, nft 
-- 🌱 I’m currently learning smart contracts
-- 👨‍💻 Working with brownie and hardhat local framework
-- 🤓 Experienced in solidity, python, javascript, typescript
-- 💞️ I’m looking to collaborate on anything crytpo
-- 📫 How to reach me abdulqgg@yahoo.com
+# Hi there, I'm Abdul! 👋
 
-<!---
-abdulqgg/abdulqgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Science student and passionate about exploring the world of data. 🌎 Currently, I'm working on a project that involves independent foodbanks in UK. 🍎 Besides, I'm also participating in hackathons to learn new things and challenge myself. 💡
+
+## Skills and Tools 🛠️
+- Python 🐍
+- R 📊
+- Solidity 💰
+- Javascript 🌐
+
+## Projects 🚀
+- [Project 1](link): Brief description of your project
+- [Project 2](link): Brief description of your project
+
+## Hackathons 🏆
+- [Hackathon 1](link): Brief description of your participation
+- [Hackathon 2](link): Brief description of your participation
+
+## Connect with Me 📫
+- [LinkedIn](link)
+- [Twitter](link)
 
