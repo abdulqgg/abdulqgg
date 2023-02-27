@@ -9,14 +9,14 @@ I'm a Data Science student and passionate about exploring the world of data. �
 - Javascript 🌐
 
 ## Projects 🚀
-- [Project 1](link): Brief description of your project
-- [Project 2](link): Brief description of your project
+- [Cryptous](https://github.com/abdulqgg/Cryptous): A platform that simplifies the process of finding cost-effective cryptocurrency exchanges by offering a comprehensive overview of exchange rates, payment methods, and fees from three top-rated cryptocurrency exchanges.
+- [Covid19 Data Analysis](https://github.com/abdulqgg/covid19-vaccines): Project aimed to analyze and visualize the impact of vaccines on COVID-19 cases
 
 ## Hackathons 🏆
-- [Hackathon 1](link): Brief description of your participation
-- [Hackathon 2](link): Brief description of your participation
+- [Hubster](https://ethglobal.com/showcase/hubster-k2ude): Built during *EthGlobal 2022 Hackathon*, Create a personalized work-profile nft and share your work-history on-chain
+- [Filebridge](https://ethglobal.com/showcase/file-bridge-9mk1g): Built during *FVM Space Warp Hackathon*, File Bridge is a set of smart contracts combined with a website to let people bridge their tokens and NFT from filecoin blockchain to any other!
 
 ## Connect with Me 📫
 - [LinkedIn](link)
-- [Twitter](link)
+- [Twitter](https://twitter.com/abdulqgg)
 
