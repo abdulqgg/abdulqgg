@@ -9,6 +9,7 @@ I'm a Data Science student and passionate about exploring the world of data. �
 - Javascript 🌐
 
 ## Projects 🚀
+- [Foodbank web scraping](https://github.com/abdulqgg/food-banks-web-scarping): Web scraping data on all independent foodbanks in the UK to a .csv
 - [Cryptous](https://github.com/abdulqgg/Cryptous): A platform that simplifies the process of finding cost-effective cryptocurrency exchanges by offering a comprehensive overview of exchange rates, payment methods, and fees from three top-rated cryptocurrency exchanges.
 - [Covid19 Data Analysis](https://github.com/abdulqgg/covid19-vaccines): Project aimed to analyze and visualize the impact of vaccines on COVID-19 cases
 
