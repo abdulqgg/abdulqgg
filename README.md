@@ -14,8 +14,8 @@ I'm a Data Science student and passionate about exploring the world of data. �
 - [Covid19 Data Analysis](https://github.com/abdulqgg/covid19-vaccines): Project aimed to analyze and visualize the impact of vaccines on COVID-19 cases
 
 ## Hackathons 🏆
-- [Hubster](https://ethglobal.com/showcase/hubster-k2ude): Built during *EthGlobal 2022 Hackathon*, Create a personalized work-profile nft and share your work-history on-chain
-- [Filebridge](https://ethglobal.com/showcase/file-bridge-9mk1g): Built during *FVM Space Warp Hackathon*, File Bridge is a set of smart contracts combined with a website to let people bridge their tokens and NFT from filecoin blockchain to any other!
+- [Hubster](https://ethglobal.com/showcase/hubster-k2ude): Built during *EthGlobal 2022 Hackathon*, Built a web3 LinkedIn, allowed users to take ownership of their data through creating a personalized work-profile nft
+- [Filebridge](https://ethglobal.com/showcase/file-bridge-9mk1g): Built during *FVM Space Warp Hackathon*, File Bridge is a set of smart contracts combined with a website to let people bridge and swap their tokens and NFT from filecoin blockchain to any other!
 
 ## Connect with Me 📫
 - [LinkedIn](link)
