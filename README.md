@@ -5,6 +5,8 @@ I'm a Data Science student and passionate about exploring the world of data. �
 ## Skills and Tools 🛠️
 - Python 🐍
 - R 📊
+- PowerBI 📊
+- MySQL 🐬
 - Solidity 💰
 - Javascript 🌐
 
