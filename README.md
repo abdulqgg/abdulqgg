@@ -16,6 +16,3 @@ I have a Data Science BSc
 ## Hackathons 🏆
 - [Hubster](https://ethglobal.com/showcase/hubster-k2ude): Built during *EthGlobal 2022 Hackathon*, Built a web3 LinkedIn, allowed users to take ownership of their data through creating a personalized work-profile nft
 - [Filebridge](https://ethglobal.com/showcase/file-bridge-9mk1g): Built during *FVM Space Warp Hackathon*, File Bridge is a set of smart contracts combined with a website to let people bridge and swap their tokens and NFT from filecoin blockchain to any other!
-
-## Connect with Me 📫
-- [LinkedIn](https://www.linkedin.com/in/abdulqgg/)
