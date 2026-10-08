@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul! 👋
 
-Data Science BSc | 2 YOE Data Analyst | 1 YOE Data/AI Eng
+Data Science BSc | 3 YOE Data Analyst
 
 ## Skills and Tools 🛠️
 - Python 🐍
